@@ -1,0 +1,9 @@
+build.xml
+local.properties
+
+bin/
+gen/
+obj/
+
+.*.swp
+*~
